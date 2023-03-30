@@ -1,0 +1,8 @@
+# ninja log v5
+0	104	1680179537656721151	QtTest_autogen/timestamp	63278c1d6bd877ae
+0	104	1680179537656721151	QtTest_autogen/mocs_compilation.cpp	63278c1d6bd877ae
+0	104	1680179537656721151	/Users/lichunxue/code/Clion/QtTest/cmake-build-debug/QtTest_autogen/timestamp	63278c1d6bd877ae
+0	104	1680179537656721151	/Users/lichunxue/code/Clion/QtTest/cmake-build-debug/QtTest_autogen/mocs_compilation.cpp	63278c1d6bd877ae
+105	158	1680179537726491312	CMakeFiles/QtTest.dir/QtTest_autogen/mocs_compilation.cpp.o	8d05b7b65d9355dc
+105	1208	1680179538771633201	CMakeFiles/QtTest.dir/main.cpp.o	941b8066d6bd11b1
+1210	1393	1680179538959320063	QtTest	d2f46ae67727e566
